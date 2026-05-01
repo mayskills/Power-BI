@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PMO Télécom.png" style="width:100%; max-width:100%;">
+  <img src="PMO Télécom.png">
 </p>
 
 ###  Télécharger : 
